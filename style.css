@@ -1,0 +1,27 @@
+.tył {margin:0 auto; width:100%; background-color:black;}
+.logo {width:100%; height:150px; background-color:black; display: table;}
+.menu {width:15%; height:1200px; background-color:#2cb4ff; float:left; font-size:30px;}
+.menu2 {width:15%; height:1200px; background-color:#2cb4ff; float:left; font-size:30px;}
+.treść {width:70%; height:1200px; background-color:white; float:left;}
+.stopka {width:100%; height:50px; background-color:black; clear:both; display: table;}
+.foto { width:20%;}
+
+
+#tytuł {font-family:impact; font-size: 60px; display: table-cell; text-align: center; vertical-align: middle;text-decoration: underline overline; color: white;}
+#info {font-size:15px; color: red; font-family: Arial; font-weight: bold; text-decoration: none; margin-right:5px;}
+#menu {font-size:25px; color: black; font-family: Arial; font-weight: bold; text-align:center;}
+#stopka {font-family: Arial; font-size: 15px; display: table-cell; text-align: center; vertical-align: middle; color: white;}
+#lista {font-size: 16px; margin-left: -15px; margin-right: 5px;}
+#powrót {font-size:18px; color: white; font-family: Arial; font-weight: bold; text-decoration: none; margin-left:5px;}
+#nagłówek {font-size: 35px; text-align: center; font-weight: bold; margin-left: 40px; margin-right:40px; font-family: Arial;}
+#treść {font-size: 15px; margin-left: 40px; margin-right:40px; font-family: Arial;}
+#formularz {font-size: 20px; margin-left: 40px; margin-right:40px; font-family: Arial; text-decoration: none;}
+#ankieta {margin-top:30px; margin-left:40px; font-family: Arial;}
+#ankieta1 {margin-left:40px; font-family: Arial;}
+#konkurs {font-size:18px; color: white; font-family: Arial; font-weight: bold; text-decoration: none; margin-left:5px;}
+#lightgallery { margin-left: 12%;}
+#fotka { width: 40%; margin-left:30%;}
+
+#tabela {  width: 450px;height:100px;padding: 10px;margin: 15px auto 15px auto;background-color: white;webkit-border-radius: 15px;-moz-border-radius: 15px;border-radius: 15px;box-shadow: 5px 5px 50px grey;-moz-box-shadow: 5px 5px 50px grey; webkit-box-shadow:5px 5px 50px grey;}
+
+th {text-align:left; }
